@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**s1nn01/s1nn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> whoami
+sinni · cs @ warwick · systems & backend
+> uptime
+building order books, GPU cores & packet sniffers @ 3am
+> stack --favourites
+c · c++20 · go · systemverilog · python
+> currently
+teaching an 8-lane SIMD core to admit when its RTL is wrong
+> philosophy
+if it isn't tested, it doesn't exist
