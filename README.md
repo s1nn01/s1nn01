@@ -35,10 +35,10 @@ occasionally seen at hackathons
 if it isn't tested, it doesn't exist
 
 > debug --strategy
-1. stare at logs
-2. form theory
-3. prove theory wrong
-4. repeat
+> 1. stare at logs
+> 2. form theory
+> 3. prove theory wrong
+> 4. repeat
 
 > status
 probably profiling something that was already fast enough
